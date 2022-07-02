@@ -1,0 +1,27 @@
+[
+   
+    {
+        "key": "doc2",
+        "name": "Dilnavoz Rahimova",
+        "speciality": "Dental Surgeon",
+        "innerText": "Salom Men Dilnavoz. Tish jarrohiman",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/pic-team-2.jpg",
+        "bgColor": "#006d95"
+    },
+    {
+        "key": "doc3",
+        "name": "Lola Qosimova",
+        "speciality": "Dentist",
+        "innerText": "Salom Men Lola. Tish shifokoriman",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/pic-team-3.jpg",
+        "bgColor": "#0087aa"
+    },
+    {
+        "key": "doc4",
+        "name": "Fazilat Safarova",
+        "speciality": "Dentist",
+        "innerText": "Salom Men Fazilat. Tish shifokoriman",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/pic-team-5.jpg",
+        "bgColor": "#00a1be"
+    }
+]

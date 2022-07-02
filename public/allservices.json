@@ -1,0 +1,82 @@
+[
+    {
+        "key": "abc1",
+        "name": "TISH XIZMATLARI",
+        "category": "Tishlar",
+        "innerText": "Tish parvarishi - bu sog'lom tishlarni saqlash va quyidagilarni nazarda tutishi mumkin: og'iz gigienasi, og'iz va tishlarni saqlash amaliyoti",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_192351722-320x200.jpg",
+        "bgColor": "#00b3cc",
+        "textColor": "#222",
+        "textLight": "#7e8592"
+    },
+    {
+        "key": "abc2",
+        "name": "IMPLANT",
+        "category": "Agar tishlaringizni yo'qotsangiz",
+        "innerText": "Dental implant - bu etishmayotgan tishning ildiz qismini almashtiradigan metall post. tish (toj) kengaytmaga joylashtiriladi.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_227481766-320x200.jpg",
+        "bgColor": "#00b3cc",
+        "textColor": "#222",
+        "textLight": "#7e8592"
+    },
+    {
+        "key": "abc3",
+        "name": "DENTISTRY",
+        "category": "Cosmetic",
+        "innerText": "Stomatologiya, og'iz bo'shlig'i kasalliklarini, shu jumladan tish tuzilmalari kasalliklarini oldini olish va davolash bilan shug'ullanadigan kasb.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_270756593-320x200.jpg",
+        "bgColor": "#00b3cc",
+        "textColor": "#222",
+        "textLight": "#7e8592"
+    },
+    {
+        "key": "abc4",
+        "name": "DENTAL BRIDGES",
+        "category": "Eng yaxshi yechim",
+        "innerText": "Ko'prik bo'shliqning har ikki tomonidagi tishlar uchun ikki yoki undan ortiq tojlardan iborat - tishlar tayanch tishlari deb ataladi.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_156787064-320x200.jpg",
+        "bgColor": "#00b3cc",
+        "textColor": "#222",
+        "textLight": "#7e8592"
+    },
+    {
+        "key": "abc5",
+        "name": "TOJ",
+        "category": "Og'riqsiz davolash",
+        "innerText": "Tish tojlari - bu tish shaklidagi qopqoqlar bo'lib, ular sizning tishingizga joylashtirilishi mumkin. Toj tishni, kuchini va ko'rinishini tiklaydi.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_142427935-320x200.jpg",
+        "bgColor": "#00b3cc",
+        "textColor": "#222",
+        "textLight": "#7e8592"
+    },
+    {
+        "key": "abc6",
+        "name": "Bricket",
+        "category": "Hammasini bir qatorga qo'yish",
+        "innerText": "Tish tojlari - bu tish shaklidagi qopqoqlar bo'lib, ular sizning tishingizga joylashtirilishi mumkin. Toj tishni, kuchini va ko'rinishini tiklaydi.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_124314160-320x200.jpg",
+        "bgColor": "#00b3cc",
+        "textColor": "#222",
+        "textLight": "#7e8592"
+    },
+    {
+        "key": "abc7",
+        "name": "VENEERS",
+        "category": "Porcelain",
+        "innerText": "Invisalign tizimi tishlaringizni ma'lum vaqt ichida joyiga qo'yish uchun aniq tekislash moslamalaridan foydalanadi. Tovoqlar silliq qilib qo'yilgan.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_118733071-320x200.jpg",
+        "bgColor": "#00b3cc",
+        "textColor": "#222",
+        "textLight": "#7e8592"
+    },
+    {
+        "key": "abc8",
+        "name": "TISH OQARTIRISH",
+        "category": "Chiroyli Tabassum",
+        "innerText": "Tishlarni oqartirish oddiy jarayon. Oqartiruvchi mahsulotlar ikkita tish oqartiruvchidan birini (vodorod peroksid yoki karbamid peroksid) o'z ichiga oladi.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_77455267-320x200.jpg",
+        "bgColor": "#00b3cc",
+        "textColor": "#222",
+        "textLight": "#7e8592"
+    }
+]
